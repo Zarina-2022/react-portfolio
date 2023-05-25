@@ -11,8 +11,3 @@ Dependencies:
 9. npm i react-loaders  (loaders of react)
 10. npm i react-router-dom (to navigate throught the pages)
 11. npm i sass       (for styling)
-
-
-Colors:
-mor: #761C20
-grey: #7b7b85
